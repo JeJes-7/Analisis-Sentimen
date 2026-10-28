@@ -47,16 +47,7 @@ tipis pada 90:10, tetapi selisihnya kecil karena data uji hanya 470 ulasan.
 - Evaluasi memakai satu kali pembagian data (`random_state=42`)
 - Data terbatas pada 5.000 ulasan terbaru, bukan seluruh ulasan sejak rilis
 
-## Cara Menjalankan
-```bash
-pip install google-play-scraper sastrawi wordcloud nltk scikit-learn pandas numpy matplotlib seaborn
-jupyter notebook Analisis_Sentimen.ipynb
-```
-Jalankan sel secara berurutan (Restart & Run All). Sel scraping dapat dilewati jika
-`ulasan_bibit.csv` sudah tersedia, karena hasil scraping berubah setiap dijalankan.
-
-## Teknologi
-Python, pandas, scikit-learn, NLTK, Sastrawi, Matplotlib, Seaborn, WordCloud
+Untuk pengembangan selanjutnya mungkin bisa ditambahkan penggunaan aplikasi sederhana (Streamlit/Flask) atau dashboard agar hasil sentimen bisa dipantau secara berkala, pertimbangkan 3 kelas, serta penanganan data imbalance yg lain.
 
 ## Penulis
 Jesika Yudiani Putri
