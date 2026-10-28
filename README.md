@@ -5,6 +5,8 @@ Bibit menggunakan pipeline NLP dan membandingkan empat algoritma machine learnin
 untuk menentukan model terbaik.
 
 Presentasi: https://canva.link/ur8kkmgktivykwm
+Google Collab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15b2oBK_AfYRZeklun31LYw6RUDX93cns#scrollTo=EjdQ-z5_Y2nZ
+)
 
 ## Latar Belakang
 Ulasan pengguna di Google Play Store mencerminkan pengalaman dan kepuasan pengguna,
